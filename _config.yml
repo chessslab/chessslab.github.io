@@ -22,7 +22,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chess_logo.png"
+  avatar           : "chess_logo_wider.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Cybersecurity, Human Factors and Enterprise Security Studies"
