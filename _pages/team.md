@@ -4,6 +4,8 @@ title: "CHESS Lab Team"
 author_profile: true
 ---
 
+![The Team](/images/LEGOTeam.png)
+
 As the lab and our team was just established in 2025, we are still growing! However, as part of CISPA, our team really consists of 700+ people and we closely work together on a daily basis with __[MaxLab](https://group.cispa.io/golla/)__, __[Group Krombholz](https://cispa.de/de/research/groups/krombholz)__, and __[Team USEC](https://teamusec.de/)__  among others 💪.
 
 # Current Members
