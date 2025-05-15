@@ -6,14 +6,14 @@ author_profile: true
 
 <span style="color:red">__NOTE: This site is currently under construction.__ The offical call for the positions are not published at the CISPA job portal yet.</span>
 
-# CHESSLab@CISPA: PhD in Human-Centred and Organizational Security (Fully Funded For 4+ Years)
+# PhD in Human-Centred and Organizational Security (Fully Funded For 4+ Years)
 
 CISPA is one of the __best places in Germany, Europe, and the world to pursue a PhD__ in cybersecurity. This is because we have an extensive, __international, young, and open community of cybersecurity researchers__ you can find nowhere else. CISPA has an expert in everything regarding cybersecurity and AI. While you will be a member of the CHESS lab and supervised by [Jonas](/team/), you will be naturally integrated into the wider CISPA family, creating opportunities to do joint projects with PhD researchers from other teams.
 
-[<span style="color:red">__Please use the official CISPA application portal to hand in your application (Link).__</span>](https://jobs.cispa.saarland/de_DE/jobs)
+[__Please use the official CISPA application portal to hand in your application (Link).__](https://jobs.cispa.saarland/de_DE/jobs)
 
 ## Our Research
-Our research is within the fields of __Human-Centred Security__, __Organizational Cybersecurity__, and __Industrial Control System Security__. In our team, we address cybersecurity challenges that organizations and humans face. We want to understand how theoretical and academic cybersecurity ideas are implemented in organizations' practice. We are also interested in understanding the economic incentives behind security decisions and general principles of Human-Centred Security and Usable Security. 
+At __CHESS Lab__, our research is within the fields of __Human-Centred Security__, __Organizational Cybersecurity__, and __Industrial Control System Security__. In our team, we address cybersecurity challenges that organizations and humans face. We want to understand how theoretical and academic cybersecurity ideas are implemented in organizations' practice. We are also interested in understanding the economic incentives behind security decisions and general principles of Human-Centred Security and Usable Security. 
 
 We go into organizations, engage with decision-makers and users, and test interventions to improve organizations' cyberresilience. In our studies, __we combine methods like interviews, diary studies, questionnaires, field observations, qualitative coding, web crawling, data analysis with LLM, statistical tests, and prototype coding__. In summary, our work is highly interdisciplinary.
 
@@ -54,4 +54,4 @@ In previous work, we have, for example, worked with Chief Information Security O
 * _Information for international applicants: The freedom of research and teaching is written deep into the German constitution. We live in a time when researchers in other countries are under immense pressure from their governments. However, no one is interfering with our research in Germany and at CISPA. Our team can pursue exactly the type of research we like, which regularly leads to constructive critiques of managers, policy makers, and security vendors, but without the danger of retaliation. 🦾_
 
 
-<button style="display: table; margin: 0 auto;" name="button" onclick="https://jobs.cispa.saarland/de_DE/jobs">__Apply Now__</span></button>
+## [__Apply Now__](https://jobs.cispa.saarland/de_DE/jobs)

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome at the CHESSLab"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="color:red">__NOTE: This site is currently under construction.__</span>
 
-We are a research group at the [CISPA Helmholtz Center For Information Security](https://cispa.de/) in Saarland, Germany.
+Welcome at __*Cybersecurity, Human Factors, and Enterprise Security Studies (CHESS) Lab*__! We are a research group at the [CISPA Helmholtz Center For Information Security](https://cispa.de/) in Saarland, Germany.
 
 
 We are __cybersecurity researchers__!
