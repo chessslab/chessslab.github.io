@@ -3,7 +3,7 @@ permalink: /join/
 title: "Join the Team! 🎓❤️😎"
 author_profile: true
 header: 
-  teaser: "/images/PhDSuccess"
+  teaser: "/images/PhDSuccess.png"
 ---
 
 <span style="color:red">__NOTE: This site is currently under construction.__ The offical call for the positions are not published at the CISPA job portal yet.</span>
