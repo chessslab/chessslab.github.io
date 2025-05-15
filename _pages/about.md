@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Welcome to CHESS Lab"
+title: "Welcome at the CHESSLab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-__Note: This Page is currently under construction!__
 
 We are a research group at the [CISPA Helmholtz Center For Information Security](https://cispa.de/) in Saarland, Germany.
 
@@ -30,3 +29,10 @@ We are currently looking for [PhD students](/join/) who are enthusiastic about o
 
 # News  
 * __April 2025__: We are teaching the seminar [Cybersecurity in Organizational Practice at Saarland University](https://cms.cispa.saarland/orgsec25/)
+
+# Contact
+> Dr.-Ing. Jonas Hielscher \
+> CISPA Helmholtz Center for Information Security \
+> Building D1, Room 2.16 \
+> Kaiserstr. 21, 66386 St. Ingbert \
+> firstname.lastname@cispa.de \

@@ -10,7 +10,7 @@ As the lab and our team was just established in 2025, we are still growing! Howe
 
 > ## [Jonas Hielscher](https://jhielscher.de)
 > 🎓 Incoming TT Faculty \
-> 📍 CISPA, Building: D1, Room: 2.12 \
+> 📍 CISPA, Building: D1, Room: 2.16 \
 > 📬 [firstname.lastname@cispa.de](mailto:firstname.lastname@cispa.de) \
 > 📝 [Publications](https://scholar.google.com/citations?user=UvcKg4kAAAAJ&hl=de)
 
