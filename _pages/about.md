@@ -20,10 +20,10 @@ As our research is highly empirical, our __[teaching](/teaching/)__ aims to deve
 
 As part of CISPA, the world's leading cybersecurity research institution, we strive for excellence with a positive impact on our societies, organizations, and individuals. Our work is regularly published at the leading venues of cybersecurity and human-computer interaction, such as USENIX Security, IEEE S&P, ACM CSS, ISOC NDSS, ACM CHI, and USENIX SOUPS.
 
-Please reach out, if you want to collaborate.
+Please [reach out](/team/), if you want to collaborate.
 
 
-# Join Us! 🎓❤️😎
+# Join the Team! 🎓❤️😎
 We are currently looking for [PhD students](/join/) who are enthusiastic about our research.
 
 

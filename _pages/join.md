@@ -1,12 +1,12 @@
 ---
 permalink: /join/
-title: "Join Our Team! 🎓❤️😎"
+title: "Join the Team! 🎓❤️😎"
 author_profile: true
 ---
 
 
 
-# PhD in Human-Centred and Organizational Security (Fully Funded For 4+ Years)
+# CHESSLab@CISPA: PhD in Human-Centred and Organizational Security (Fully Funded For 4+ Years)
 
 CISPA is one of the __best places in Germany, Europe, and the world to pursue a PhD__ in cybersecurity. This is because we have an extensive, __international, young, and open community of cybersecurity researchers__ you can find nowhere else. CISPA has an expert in everything regarding cybersecurity and AI. While you will be a member of the CHESS lab and supervised by [Jonas](/team/), you will be naturally integrated into the wider CISPA family, creating opportunities to do joint projects with PhD researchers from other teams.
 
@@ -27,7 +27,7 @@ In previous work, we have, for example, worked with Chief Information Security O
 * Retreats, team events, extensive onboarding, special trainings for presentation, writing, method, and leadership skills and regular CISPA-wide social events create a __wonderful working experience__.
 
 ## Your PhD Journey
-* __You will be a researcher!__ Most of your time, you will develop, test, execute, and present research projects that you will work on. We will create the projects together, based on your interests and strengths.
+* __You will be a researcher!__ Most of your time, you will develop, test, execute, and present research projects. We will create the projects together, based on your interests and strengths.
 * We have established connections to various world-leading international universities, e.g., in the US, the UK, the Netherlands, or Singapore. This allows for __international research visits during your PhD__.  
 * You will gather __your first leadership experience__ in co-supervising Bachelor's and Master's students in their thesis projects and student assistants (HiWis) in their projects.
 * You __won’t have teaching obligations__ (unless you want to), which is a major advantage as you can focus on your research.
@@ -54,4 +54,4 @@ In previous work, we have, for example, worked with Chief Information Security O
 * _Information for international applicants: The freedom of research and teaching is written deep into the German constitution. We live in a time when researchers in other countries are under immense pressure from their governments. However, no one is interfering with our research in Germany and at CISPA. Our team can pursue exactly the type of research we like, which regularly leads to constructive critiques of managers, policy makers, and security vendors, but without the danger of retaliation. 🦾_
 
 
-<button style="display: table; margin: 0 auto;" name="button" onclick="https://jobs.cispa.saarland/de_DE/jobs"><span style="color:red">__Apply Now__</span></button>
+<button style="display: table; margin: 0 auto;" name="button" onclick="https://jobs.cispa.saarland/de_DE/jobs">__Apply Now__</span></button>
