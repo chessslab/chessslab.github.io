@@ -24,7 +24,7 @@ Please reach out, if you want to collaborate.
 
 
 # Join Us! 🎓❤️😎
-We are currently looking for PhD students who are enthusiastic about our research.
+We are currently looking for [PhD students](/join/) who are enthusiastic about our research.
 
 
 
