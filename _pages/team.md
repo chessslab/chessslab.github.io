@@ -16,14 +16,9 @@ As the lab and our team was just established in 2025, we are still growing! Howe
 
 
 # Thesis Writers
-> __Palash__. 2025, _Currently Running_ 👩🏼‍💻. Topic: TBA
-
-> __Ida__. 2025, _Currently Running_ 👩🏼‍💻. Topic: TBA
-
-> __Yashodhara__. 2025, _Currently Running_ 👩🏼‍💻. Topic: TBA
-
-> __Rian__. 2025, _Currently Running_ 👩🏼‍💻. Topic: Human-Centred Security in Identity and Access Management: A Qualitative Study on Perception and Implementation Challenges
-
-> __Heinz__. 2025, _Completed_ 🏆. Topic: Empirical Investigation of the Socio-Cultural Environment of Secure Operational Technology Software Development
-
+> __Palash__. 2025, _Currently Running_ 👩🏼‍💻. Topic: TBA \
+> __Ida__. 2025, _Currently Running_ 👩🏼‍💻. Topic: TBA \
+> __Yashodhara__. 2025, _Currently Running_ 👩🏼‍💻. Topic: TBA \
+> __Rian__. 2025, _Currently Running_ 👩🏼‍💻. Topic: Human-Centred Security in Identity and Access Management: A Qualitative Study on Perception and Implementation Challenges \
+> __Heinz__. 2025, _Completed_ 🏆. Topic: Empirical Investigation of the Socio-Cultural Environment of Secure Operational Technology Software Development \
 > __Moritz__. 2025, _Completed_ 🏆. Topic: Topic: Restructuring of an IT Security Organisation and Its Communication Issues
