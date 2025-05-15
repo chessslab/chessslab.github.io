@@ -28,7 +28,7 @@ We go into organizations, engage with decision-makers and users, and test interv
 * You will gather __your first leadership experience__ in co-supervising Bachelor's and Master's students in their thesis projects and student assistants (HiWis) in their projects.
 * You __won’t have teaching obligations__ (unless you want to), which is a major advantage as you can focus on your research.
 * As we are a rather young lab, your knowledge and opinion will __shape how and what we will work on__.
-* We publish our results at international conferences. During your PhD, you will have the opportunity to __travel to multiple conferences around the globe__ (of course, as is typical for cybersecurity, we have all the budget available to finance your travels). Meeting other young, international researchers in different countries may be the most exciting experience during your Ph.D. Journey.
+* We publish our results at international conferences. During your PhD, you will have the opportunity to __travel to multiple conferences around the globe__. Meeting other young, international researchers may be the most exciting experience during your PhD journey.
 * At CISPA, __we are all equal__: there is no artificial hierarchy between students and faculty, and we use a first-name basis.
 
 
@@ -37,17 +37,16 @@ We go into organizations, engage with decision-makers and users, and test interv
 * You need to have the ability to develop __solutions for complex problems proactively__.
 * We do human factor research, hence you need to be __willing and able to work with humans__, e.g., interview participants, take a user's perspective, or observe participants in the field.
 * You need to __know the basics of HCI *or* cybersecurity__ through your previous studies.
-* CISPA is the world's No. 1 academic cybersecurity research institute, and we strive to conduct excellent research. In your application, you must show that you can become an outstanding researcher.
 
 ## Formal Criteria
 * You must have a __Master's degree__ from a top-tier, research-oriented university in computer science, cybersecurity, electrical engineering, or a related field. 
-* If you only have a Bachelor's so far, please check out the website of the [graduate school at Saarland University](https://www.graduateschool-computerscience.de/).
+* If you only have a Bachelor's so far, please check out [CISPA's excellence program](https://cispa.de/en/career/excellence-program) or the [graduate school at Saarland University](https://www.graduateschool-computerscience.de/).
 * You need to be proficient in written and spoken English. German is not a requirement to work at CISPA.
 
 
 ## MISC
 * Saarland is beautiful, living costs are moderate, and Paris is less than 2 hours away by train. 😉 
-* _Information for international applicants_: The freedom of research and teaching is written deep into the German constitution. We live in a time when researchers in other countries are under immense pressure from their governments. However, no one is interfering with our research in Germany and at CISPA. Our team can pursue exactly the type of research we like, which regularly leads to constructive critiques of managers, policy makers, and security vendors, but without the danger of retaliation. 🦾
+* _Information for international applicants_: [The freedom of research and teaching is written deep into the German constitution](https://www.gesetze-im-internet.de/gg/art_5.html). We live in a time when researchers in other countries are under immense pressure from their governments. However, no one is interfering with our research in Germany and at CISPA. Our team can pursue exactly the type of research we like, which regularly leads to constructive critiques of managers, policy makers, and security vendors, but without the danger of retaliation. 🦾
 
 
 ## [__Apply Now__](https://jobs.cispa.saarland/de_DE/jobs)
