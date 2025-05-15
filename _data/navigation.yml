@@ -15,9 +15,12 @@ main:
   - title: "Join the Lab!"
     url: /join/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Thesis"
+    url: /thesis/ 
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Publications"
+    url: /publications/
     
