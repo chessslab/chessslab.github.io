@@ -4,7 +4,7 @@ title: "CHESS Lab Team"
 author_profile: true
 ---
 
-As the lab and our team was just established in 2025, we are still growing! However, as part of CISPA, our team really consists of 700+ people and we closely work together on a daily basis with __[MaxLab](https://group.cispa.io/golla/)__, __[Group Krombholz](https://cispa.de/de/research/groups/krombholz)__, and __[Team USEC](https://teamusec.de/)__  among others.
+As the lab and our team was just established in 2025, we are still growing! However, as part of CISPA, our team really consists of 700+ people and we closely work together on a daily basis with __[MaxLab](https://group.cispa.io/golla/)__, __[Group Krombholz](https://cispa.de/de/research/groups/krombholz)__, and __[Team USEC](https://teamusec.de/)__  among others 💪.
 
 # Current Members
 
@@ -28,13 +28,11 @@ As the lab and our team was just established in 2025, we are still growing! Howe
 > __Sebastian__. 2022, _Completed_, M.Sc. 🏆. Topic: Behaviour Change Through Security Awareness Campaigns: An Quantitative Evaluation \
 > __Volkan__. 2022, _Completed_, M.Sc. 🏆. Topic: Information Security Awareness Campaigns: Effectiveness and Influence on Productive Security - An Empi rical Study Inside an Organization \
 > __Sebastian__. 2022, _Completed_, M.Sc. 🏆. Topic: Information Security Awareness Campaigns: Impact on Employees Trust and Self-Efficacy \
-> __Jonathan__. 2022, _Completed_, M.Sc. 🏆.Topic: Security Practitioners’ Communication and Cooperation with other Employees: Obstacles and Facilitators \
-> __Carelle__. 2022, _Completed_, M.Sc. 🏆.Topic: Productive Security: An Empirical Diary Evaluation of the Friction between Security and Productivity in the Working Routine of Employees \
-> __Alexandra__. 2022, _Completed_ 🏆.Topic: Measuring the Impact of IT Security on the Every Day Life of the Employees: A Mixed-Method Study In a German Organisation \
-> __Victoria__. 2021, _Completed_, M.Sc. 🏆.Topic: Quantum Misconceptions \
-> __Nikolai__. 2021, _Completed_, B.Sc. 🏆.Topic: Zoom’s End-To-End-Encryption: Why do so few use it? \
-> __Mirco__. 2021, _Completed_, M.Sc. 🏆.Topic: Impact of Cybersecurity Measures on Employees Empirical Investigation of Collateral Damage Triggered by Cybersecurity Measures \
-> __Moritz__. 2021, _Completed_, M.Sc. 🏆.Topic: Breaking the Routine: Using Working from Home as an Advantage in IT Security \
-> __Tatiana__. 2021, _Completed_, B.Sc. 🏆.Topic: The Impact of IT-Security on Home Oﬃce Productivity in the Education Sector \
-
-
+> __Jonathan__. 2022, _Completed_, M.Sc. 🏆. Topic: Security Practitioners’ Communication and Cooperation with other Employees: Obstacles and Facilitators \
+> __Carelle__. 2022, _Completed_, M.Sc. 🏆. Topic: Productive Security: An Empirical Diary Evaluation of the Friction between Security and Productivity in the Working Routine of Employees \
+> __Alexandra__. 2022, _Completed_ 🏆. Topic: Measuring the Impact of IT Security on the Every Day Life of the Employees: A Mixed-Method Study In a German Organisation \
+> __Victoria__. 2021, _Completed_, M.Sc. 🏆. Topic: Quantum Misconceptions \
+> __Nikolai__. 2021, _Completed_, B.Sc. 🏆. Topic: Zoom’s End-To-End-Encryption: Why do so few use it? \
+> __Mirco__. 2021, _Completed_, M.Sc. 🏆. Topic: Impact of Cybersecurity Measures on Employees Empirical Investigation of Collateral Damage Triggered by Cybersecurity Measures \
+> __Moritz__. 2021, _Completed_, M.Sc. 🏆. Topic: Breaking the Routine: Using Working from Home as an Advantage in IT Security \
+> __Tatiana__. 2021, _Completed_, B.Sc. 🏆. Topic: The Impact of IT-Security on Home Oﬃce Productivity in the Education Sector

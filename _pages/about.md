@@ -35,5 +35,5 @@ We are currently looking for [PhD students](/join/) who are enthusiastic about o
 > Dr.-Ing. Jonas Hielscher \
 > CISPA Helmholtz Center for Information Security \
 > Building D1, Room 2.16 \
-> Kaiserstr. 21, 66386 St. Ingbert \
-> firstname.lastname@cispa.de \
+> Kaiserstr. 21, 66386 St. Ingbert, Germany \
+> [firstname.lastname@cispa.de](mailto:firstname.lastname@cispa.de)
