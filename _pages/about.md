@@ -9,14 +9,14 @@ redirect_from:
 
 <span style="color:red">__NOTE: This site is currently under construction.__</span>
 
-Welcome at __*Cybersecurity, Human Factors, and Enterprise Security Studies (CHESS) Lab*__! We are a research group at the [CISPA Helmholtz Center For Information Security](https://cispa.de/) in Saarland, Germany.
+Welcome at the __*Cybersecurity, Human Factors, and Enterprise Security Studies (CHESS) Lab!*__ We are a research group at the [CISPA Helmholtz Center For Information Security](https://cispa.de/) in Saarland, Germany.
 
 
 We are __cybersecurity researchers__!
 Our research is about __human factors in cybersecurity__, specifically focusing on __cybersecurity in organizations__. We deploy interdisciplinary methods from computer science, psychology, human-computer interaction, sociology, and economics. These can include interviews, surveys, web crawling, diaries, prototyping, and technical analysis. We __closely work together with organizations and cybersecurity leaders__. We also work on __cybersecurity and usability issues of industrial control systems__.
 
 
-As our research is highly empirical, our __[teaching](/teaching/)__ aims to develop skills with practical relevance.
+As our research is highly empirical, our [teaching](/teaching/) aims to develop skills with practical relevance.
 
 As part of CISPA, the world's leading cybersecurity research institution, we strive for excellence with a positive impact on our societies, organizations, and individuals. Our work is regularly published at the leading venues of cybersecurity and human-computer interaction, such as USENIX Security, IEEE S&P, ACM CSS, ISOC NDSS, ACM CHI, and USENIX SOUPS.
 

@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "CHESS Lab Team"
+title: "Our Team"
 author_profile: true
 ---
 
