@@ -2,8 +2,6 @@
 permalink: /team/
 title: "CHESS Lab Team"
 author_profile: true
-header: 
-  teaser: "/images/LEGOTeam.png"
 ---
 
 
