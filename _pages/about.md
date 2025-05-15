@@ -29,7 +29,7 @@ We are currently looking for [PhD students](/join/) who are enthusiastic about o
 
 
 # News  
-* __April 2025__: We are teaching the seminar [Cybersecurity in Organizational Practice at Saarland University](https://cms.cispa.saarland/orgsec25/)
+* __April 2025__: We are teaching the seminar [Cybersecurity in Organizational Practice at Saarland University](https://cms.cispa.saarland/orgsec25/).
 
 # Contact
 > Dr.-Ing. Jonas Hielscher \
