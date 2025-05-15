@@ -25,9 +25,9 @@ author:
   avatar           : "chess_logo_wider.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Cybersecurity, Human Factors and Enterprise Security Studies"
-  location         : "Germany"
-  employer         : "CISPA"
+  bio              : #"Cybersecurity, Human Factors and Enterprise Security Studies"
+  location         : #"Germany"
+  employer         : #"CISPA"
   uri              : # URL
   email            : #"firstname.lastname[AT]CISPA.DE" 
 
