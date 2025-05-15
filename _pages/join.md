@@ -4,7 +4,7 @@ title: "Join the Team! 🎓❤️😎"
 author_profile: true
 ---
 
-<span style="color:red">__NOTE: This site is currently under construction.__ The offical call for the positions are not published at the CISPA job portal yet.</span>
+<span style="color:red">__NOTE: This site is currently under construction.__ The official call for the positions has not yet been published at the CISPA job portal.</span>
 
 [__Please use the official CISPA application portal to hand in your application (Link).__](https://jobs.cispa.saarland/de_DE/jobs)
 
@@ -20,8 +20,8 @@ We go into organizations, engage with decision-makers and users, and test interv
 * A fully-funded PhD position, with a gross __salary starting at approx. 58,000€/year__, [following the federal TVöD 13 statute](https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund&g=E_13&s=1&zv=VBL&z=100&zulage=&stkl=1&r=&zkf=&kk=17%2C05%25), with regular increase. 
 * The initial __contract will be for four years__, with the possibility for __extension up to six years__. _Note: The first year might be designed as a special preparation phase._
 * 30 days of paid vacation, health insurance coverage, and a pension scheme (VBL).  
-* You will work as a __researcher at the world's no. 1 cybersecurity institute__, together with hundreds of other researchers from around the world.
-* Retreats, team events, extensive onboarding, special trainings for presentation, writing, method, and leadership skills and regular CISPA-wide social events create a __wonderful working experience__.
+* You will work as a [__researcher at the world's no. 1 cybersecurity research institute__](https://csrankings.org/#/index?sec&crypt&world), together with hundreds of other researchers from around the world.
+* Retreats, team events, extensive onboarding, special trainings for presentation, writing, method, and leadership skills and regular CISPA-wide social events create a __welcoming working experience__.
 
 ## Your PhD Journey
 * __You will be a researcher!__ Most of your time, you will develop, test, execute, and present research projects. We will create the projects together, based on your interests and strengths. 
