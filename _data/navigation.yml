@@ -9,18 +9,18 @@
 
 main:
 
-  - title: "Team 😎"
+  - title: "Team"
     url: /team/
 
-  - title: "Join! 🤗"
+  - title: "Join!"
     url: /join/
 
-  - title: "Theses 🎓"
+  - title: "Theses"
     url: /thesis/ 
 
-  - title: "Teaching 👨🏾‍🏫"
+  - title: "Teaching"
     url: /teaching/    
 
-  - title: "Publications 🔬"
+  - title: "Publications"
     url: /publications/
     
