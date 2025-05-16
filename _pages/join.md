@@ -2,6 +2,8 @@
 permalink: /join/
 title: "Join the Team! 🎓❤️😎"
 author_profile: true
+header: 
+  teaser: "/images/cispa-eco.jpg"
 ---
 
 <span style="color:red">__NOTE: This site is currently under construction.__ The official call for the positions has not yet been published at the CISPA job portal.</span>
